@@ -1,0 +1,635 @@
+
+
+  .site-main {
+    height: 2000px;
+  }
+
+  .logo {
+    width: 80px;
+    border-radius: 10px;
+  }
+
+  .st-yigirmauch {
+    position: absolute;
+    top: 225px;
+    color: rgb(7, 233, 7);
+    margin-left: 5px;
+  }
+
+  .st-yigirmator {
+    position: absolute;
+    display: none;
+    color: white;
+    text-align: center;
+  }
+  
+  .box-twelve:hover .st-yigirmator {
+    cursor: pointer;
+    margin-left: 5px;
+    display: block;
+    color: antiquewhite;
+  }
+
+  .st-yigirmabir {
+    position: absolute;
+    top: 225px;
+    color: rgb(7, 233, 7);
+    margin-left: 5px;
+  }
+
+  .st-yigirmaikki {
+    margin-top: 20px;
+    position: absolute;
+    display: none;
+    color: white;
+    text-align: center;
+  }
+  
+  .box-elewen:hover .st-yigirmaikki {
+    cursor: pointer;
+    margin-left: 5px;
+    display: block;
+    color: antiquewhite;
+  }
+
+  .st-tennine {
+    position: absolute;
+    top: 235px;
+    color: rgb(7, 233, 7);
+    margin-left: 5px;
+  }
+
+  .st-twenty {
+    margin-top: 20px;
+    position: absolute;
+    display: none;
+    color: white;
+    text-align: center;
+  }
+  
+  .box-ten:hover .st-twenty {
+    cursor: pointer;
+    margin-left: 5px;
+    display: block;
+    color: antiquewhite;
+  }
+
+  .st-tenseven {
+    position: absolute;
+    top: 215px;
+    color: rgb(7, 233, 7);
+    margin-left: 5px;
+  }
+
+  .st-teneight {
+    margin-top: 10px;
+    position: absolute;
+    display: none;
+    color: white;
+    text-align: center;
+  }
+  
+  .box-nine:hover .st-teneight {
+    cursor: pointer;
+    margin-left: 5px;
+    display: block;
+    color: antiquewhite;
+  }
+
+  .st-tenfive {
+    color: rgb(7, 233, 7);
+    margin-left: 5px;
+  }
+
+  .st-tensix {
+    position: absolute;
+    display: none;
+    color: white;
+    text-align: center;
+  }
+  
+  .box-eight:hover .st-tensix {
+    cursor: pointer;
+    margin-left: 5px;
+    display: block;
+    color: antiquewhite;
+  }
+
+  .st-tenthree {
+    color: rgb(7, 233, 7);
+    margin-left: 5px;
+  }
+
+  .st-tenfour {
+    position: absolute;
+    display: none;
+    color: white;
+    text-align: center;
+  }
+  
+  .box-seven:hover .st-tenfour {
+    cursor: pointer;
+    margin-left: 5px;
+    display: block;
+    color: antiquewhite;
+  }
+
+  .st-elewen {
+    color: rgb(7, 233, 7);
+    margin-left: 5px;
+  }
+
+  .st-twelve {
+    position: absolute;
+    display: none;
+    color: white;
+    text-align: center;
+  }
+  
+  .box-six:hover .st-twelve {
+    cursor: pointer;
+    margin-left: 5px;
+    display: block;
+    color: antiquewhite;
+  }
+
+  .st-nine {
+    color: rgb(7, 233, 7);
+    margin-left: 5px;
+  }
+
+  .st-ten {
+    position: absolute;
+    display: none;
+    color: white;
+    text-align: center;
+  }
+  
+  .box-five:hover .st-ten {
+    cursor: pointer;
+    margin-left: 5px;
+    display: block;
+    color: antiquewhite;
+  }
+
+
+  .st-seven {
+    color: rgb(7, 233, 7);
+    margin-left: 5px;
+  }
+
+  .st-eight {
+    position: absolute;
+    display: none;
+    color: white;
+    text-align: center;
+  }
+  
+  .box-four:hover .st-eight {
+    cursor: pointer;
+    margin-left: 5px;
+    display: block;
+    color: antiquewhite;
+  }
+
+  .st-four {
+    position: absolute;
+    display: none;
+    color: white;
+    text-align: center;
+  }
+  
+  .box-two:hover .st-four {
+    cursor: pointer;
+    margin-left: 5px;
+    display: block;
+  }
+
+  .st-two {
+    position: absolute;
+    display: none;
+    color: white;
+    text-align: center;
+  }
+  
+  .box-one:hover .st-two {
+    cursor: pointer;
+    margin-left: 5px;
+    display: block;
+  }
+  
+
+  .st-three {
+    margin-left: 5px;
+    color: rgb(7, 233, 7);
+  
+  }
+
+  .st-four {
+    margin-left: 5px;
+    color: antiquewhite;
+  }
+
+  .box-twelve {
+    width: 260px;
+    height: 330px;
+    position: absolute;
+    top: 1000px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px 3px grey;
+    margin-left: 920px;
+  }
+
+  .img-twelve {
+    justify-content: center;
+    width: 260px;
+    height: 188px;
+    border-radius: 10px;
+  }
+
+  .input-twelve {
+    width: 70px;
+    border-radius: 10px;
+    border: 1px solid black;
+    box-shadow: 3px 3px 3px grey;
+    margin-left: 5px;
+    margin-top: 35px;
+  }
+
+  .box-elewen {
+    width: 260px;
+    height: 330px;
+    position: absolute;
+    top: 1000px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px 3px grey;
+    margin-left: 590px;
+  }
+
+  .img-elewen {
+    justify-content: center;
+    width: 260px;
+    height: 188px;
+    border-radius: 10px;
+  }
+
+  .input-elewen {
+    width: 70px;
+    border-radius: 10px;
+    border: 1px solid black;
+    box-shadow: 3px 3px 3px grey;
+    margin-left: 5px;
+    margin-top: 60px;
+  }
+
+  .wrapper-two {
+    margin-top: -12px;
+  }
+
+  .box-ten {
+    width: 260px;
+    height: 330px;
+    position: absolute;
+    top: 1000px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px 3px grey;
+    margin-left: 250px;
+  }
+
+  .img-ten {
+    justify-content: center;
+    width: 260px;
+    height: 188px;
+    border-radius: 10px;
+  }
+
+  .input-ten {
+    width: 70px;
+    border-radius: 10px;
+    border: 1px solid black;
+    box-shadow: 3px 3px 3px grey;
+    margin-left: 5px;
+    margin-top: 50px;
+  }
+
+  .box-nine {
+    width: 260px;
+    height: 330px;
+    position: absolute;
+    top: 1000px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px 3px grey;
+    margin-left: -70px;
+  }
+
+  .img-nine {
+    justify-content: center;
+    width: 260px;
+    height: 188px;
+    border-radius: 10px;
+  }
+
+  .input-nine {
+    width: 70px;
+    border-radius: 10px;
+    border: 1px solid black;
+    box-shadow: 3px 3px 3px grey;
+    margin-left: 5px;
+    margin-top: 60px;
+  }
+
+  .box-eight {
+    width: 260px;
+    height: 330px;
+    position: absolute;
+    top: 600px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px 3px grey;
+    margin-left: 920px;
+  }
+
+  .input-eight {
+    width: 70px;
+    border-radius: 10px;
+    border: 1px solid black;
+    box-shadow: 3px 3px 3px grey;
+    margin-left: 5px;
+    margin-top: 40px;
+  }
+
+  .img-eight {
+    justify-content: center;
+    width: 260px;
+    height: 188px;
+    border-radius: 10px;
+  }
+
+  .wrapper-one {
+    margin-top: -15px;
+  }
+
+  .input-seven {
+    width: 70px;
+    border-radius: 10px;
+    border: 1px solid black;
+    box-shadow: 3px 3px 3px grey;
+    margin-left: 5px;
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 5px;
+  }
+
+  .img-seven {
+    justify-content: center;
+    width: 260px;
+    height: 188px;
+    border-radius: 10px;
+  }
+
+  .box-seven {
+    width: 260px;
+    height: 330px;
+    position: absolute;
+    top: 600px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px 3px grey;
+    margin-left: 590px;
+  }
+
+  .a-four {
+    color: black;
+    text-decoration-line: none;
+    box-shadow: 3px 3px 3px 3px grey;
+    border-radius: 20px;
+    padding: 5px;
+    position: relative;
+    left: -220px;
+  }
+
+  .a-three {
+    color: black;
+    text-decoration-line: none;
+    box-shadow: 3px 3px 3px 3px grey;
+    border-radius: 20px;
+    padding: 5px;
+    position: relative;
+    left: -50px;
+  }
+
+  .a-two {
+    color: black;
+    text-decoration-line: none;
+    box-shadow: 3px 3px 3px 3px grey;
+    border-radius: 20px;
+    padding: 5px;
+    position: absolute;
+    left: 470px;
+  }
+
+  .a-one {
+    color: black;
+    text-decoration-line: none;
+    box-shadow: 3px 3px 3px 3px grey;
+    border-radius: 20px;
+    padding: 5px;
+    margin-left: 30px;
+  }
+
+  .box-six {
+    width: 260px;
+    height: 330px;
+    position: absolute;
+    top: 600px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px 3px grey;
+    margin-left: 250px;
+  }
+
+  .img-six {
+    justify-content: center;
+    width: 260px;
+    height: 188px;
+    border-radius: 10px;
+  }
+
+  .input-six {
+    width: 70px;
+    border-radius: 10px;
+    border: 1px solid black;
+    box-shadow: 3px 3px 3px grey;
+    margin-left: 5px;
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 5px;
+  }
+
+  .box-five {
+    width: 260px;
+    height: 330px;
+    position: absolute;
+    top: 600px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px 3px grey;
+    margin-left: -70px;
+  }
+
+  .img-five {
+    justify-content: center;
+    width: 260px;
+    height: 188px;
+    border-radius: 10px;
+  }
+
+  .input-five {
+    width: 70px;
+    border-radius: 10px;
+    border: 1px solid black;
+    box-shadow: 3px 3px 3px grey;
+    margin-left: 5px;
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 5px;
+  }
+
+
+  .box-four {
+    width: 260px;
+    height: 330px;
+    position: absolute;
+    top: 200px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px 3px grey;
+    margin-left: 920px;
+  }
+
+  .input-four {
+    width: 70px;
+    border-radius: 10px;
+    border: 1px solid black;
+    box-shadow: 3px 3px 3px grey;
+    margin-left: 5px;
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 5px;
+  }
+
+  .img-four {
+    justify-content: center;
+    width: 260px;
+    height: 188px;
+    border-radius: 10px;
+  }
+
+  .st-six {
+    position: absolute;
+    display: none;
+    color: white;
+    text-align: center;
+  }
+  
+  .box-three:hover .st-six {
+    cursor: pointer;
+    margin-left: 5px;
+    display: block;
+    color: antiquewhite;
+  }
+
+  .st-five {
+    color: rgb(7, 233, 7);
+    margin-left: 5px;
+  }
+
+  .box-three {
+    width: 260px;
+    height: 330px;
+    position: absolute;
+    top: 200px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px 3px grey;
+    margin-left: 590px;
+  }
+
+  .input-three {
+    width: 70px;
+    border-radius: 10px;
+    border: 1px solid black;
+    box-shadow: 3px 3px 3px grey;
+    margin-left: 5px;
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 5px;
+  }
+
+  .img-three {
+    justify-content: center;
+    width: 260px;
+    height: 188px;
+    border-radius: 10px;
+  }
+
+  .img-two {
+    justify-content: center;
+    width: 260px;
+    height: 188px;
+    border-radius: 10px;
+  }
+  
+  .input-two {
+    width: 70px;
+    border-radius: 10px;
+    border: 1px solid black;
+    box-shadow: 3px 3px 3px grey;
+    margin-left: 5px;
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 5px;
+  }
+  
+  .box-two {
+    width: 260px;
+    height: 330px;
+    position: absolute;
+    top: 200px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px 3px grey;
+    margin-left: 250px;
+  }
+
+  .input-one {
+    width: 70px;
+    border-radius: 10px;
+    border: 1px solid black;
+    box-shadow: 3px 3px 3px grey;
+    margin-left: 5px;
+    margin-top: 40px;
+  }
+
+  .st-two {
+    color: antiquewhite;
+    margin-left: 5px;
+  }
+
+  .st-one {
+    color: rgb(7, 233, 7);
+    margin-left: 5px;
+  }
+
+  .p-one {
+    margin-left: 5px;
+  }
+
+  .img-one {
+    justify-content: center;
+    width: 260px;
+    border-radius: 10px;
+  }
+
+  .box-one {
+    width: 260px;
+    height: 330px;
+    position: absolute;
+    top: 200px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px 3px grey;
+    left: 50px;
+  }
