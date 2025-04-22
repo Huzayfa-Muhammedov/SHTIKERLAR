@@ -9,6 +9,54 @@
     border-radius: 10px;
   }
 
+  .st-yigirmabesh {
+    position: absolute;
+    top: 225px;
+    color: rgb(7, 233, 7);
+    margin-left: 5px;
+  }
+
+  .st-yigirmaolti {
+    position: absolute;
+    display: none;
+    color: white;
+    text-align: center;
+  }
+  
+  .box-tenthree:hover .st-yigirmatolti {
+    cursor: pointer;
+    margin-left: 5px;
+    display: block;
+    color: antiquewhite;
+  }
+
+
+  .img-tenthree {
+    justify-content: center;
+    width: 260px;
+    height: 188px;
+    border-radius: 10px;
+  }
+
+  .input-tenthree {
+    width: 70px;
+    border-radius: 10px;
+    border: 1px solid black;
+    box-shadow: 3px 3px 3px grey;
+    margin-left: 5px;
+    margin-top: 35px;
+  }
+
+  .box-tenthree {
+    width: 260px;
+    height: 330px;
+    position: absolute;
+    top: 600px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px 3px grey;
+    margin-left: 900px;
+  }
+
   .st-yigirmauch {
     position: absolute;
     top: 225px;
