@@ -1,12 +1,624 @@
 
 
   .site-main {
-    height: 2000px;
+    height: 3000px;
   }
 
   .logo {
     width: 80px;
     border-radius: 10px;
+  } 
+
+  .st-ellibir {
+    position: absolute;
+    top: 225px;
+    color: rgb(7, 233, 7);
+    margin-left: 5px;
+  }
+
+  .st-elliiki {
+    position: absolute;
+    display: none;
+    color: white;
+    text-align: center;
+  }
+  
+  .box-twentysix:hover .st-elliiki {
+    cursor: pointer;
+    margin-left: 5px;
+    display: block;
+    color: antiquewhite;
+  } 
+
+  .box-twentysix {
+    width: 260px;
+    height: 330px;
+    position: absolute;
+    top: 2600px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px 3px grey;
+    left: 370px;
+  }
+
+  .input-twentysix {
+    width: 70px;
+    border-radius: 10px;
+    border: 1px solid black;
+    box-shadow: 3px 3px 3px grey;
+    margin-left: 5px;
+    margin-top: 35px;
+  }
+
+  .img-twentysix {
+    justify-content: center;
+    width: 260px;
+    height: 188px;
+    border-radius: 10px;
+  }
+
+  .st-qirqtoqiz {
+    position: absolute;
+    top: 225px;
+    color: rgb(7, 233, 7);
+    margin-left: 5px;
+  }
+
+  .st-elli {
+    position: absolute;
+    display: none;
+    color: white;
+    text-align: center;
+  }
+  
+  .box-twentyfive:hover .st-elli {
+    cursor: pointer;
+    margin-left: 5px;
+    display: block;
+    color: antiquewhite;
+  } 
+
+  .box-twentyfive {
+    width: 260px;
+    height: 330px;
+    position: absolute;
+    top: 2600px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px 3px grey;
+    left: 48px;
+  }
+
+  .input-twentyfive {
+    width: 70px;
+    border-radius: 10px;
+    border: 1px solid black;
+    box-shadow: 3px 3px 3px grey;
+    margin-left: 5px;
+    margin-top: 35px;
+  }
+
+  .img-twentyfive {
+    justify-content: center;
+    width: 260px;
+    height: 188px;
+    border-radius: 10px;
+  }
+
+  .st-qirqyeti {
+    position: absolute;
+    top: 225px;
+    color: rgb(7, 233, 7);
+    margin-left: 5px;
+  }
+
+  .st-qirqsakiz {
+    position: absolute;
+    display: none;
+    color: white;
+    text-align: center;
+  }
+  
+  .box-twentyfour:hover .st-qirqsakiz {
+    cursor: pointer;
+    margin-left: 5px;
+    display: block;
+    color: antiquewhite;
+  } 
+
+  .box-twentyfour {
+    width: 260px;
+    height: 330px;
+    position: absolute;
+    top: 2200px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px 3px grey;
+    left: 1040px;
+  }
+
+  .input-twentyfour {
+    width: 70px;
+    border-radius: 10px;
+    border: 1px solid black;
+    box-shadow: 3px 3px 3px grey;
+    margin-left: 5px;
+    margin-top: 35px;
+  }
+
+  .img-twentyfour {
+    justify-content: center;
+    width: 260px;
+    height: 188px;
+    border-radius: 10px;
+  }
+
+  .st-qirqbesh {
+    position: absolute;
+    top: 225px;
+    color: rgb(7, 233, 7);
+    margin-left: 5px;
+  }
+
+  .st-qirqolti {
+    position: absolute;
+    display: none;
+    color: white;
+    text-align: center;
+  }
+  
+  .box-twentythree:hover .st-qirqolti {
+    cursor: pointer;
+    margin-left: 5px;
+    display: block;
+    color: antiquewhite;
+  } 
+
+  .img-twentythree {
+    justify-content: center;
+    width: 260px;
+    height: 188px;
+    border-radius: 10px;
+  }
+
+  .input-twentythree {
+    width: 70px;
+    border-radius: 10px;
+    border: 1px solid black;
+    box-shadow: 3px 3px 3px grey;
+    margin-left: 5px;
+    margin-top: 35px;
+  }
+
+  .box-twentythree {
+    width: 260px;
+    height: 330px;
+    position: absolute;
+    top: 2200px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px 3px grey;
+    left: 710px;
+  }
+
+  .st-qirquch {
+    position: absolute;
+    top: 225px;
+    color: rgb(7, 233, 7);
+    margin-left: 5px;
+  }
+
+  .st-qirqtor {
+    position: absolute;
+    display: none;
+    color: white;
+    text-align: center;
+  }
+  
+  .box-twentytwo:hover .st-qirqtor {
+    cursor: pointer;
+    margin-left: 5px;
+    display: block;
+    color: antiquewhite;
+  } 
+
+  .img-twentytwo {
+    justify-content: center;
+    width: 260px;
+    height: 188px;
+    border-radius: 10px;
+  }
+
+  .input-twentytwo {
+    width: 70px;
+    border-radius: 10px;
+    border: 1px solid black;
+    box-shadow: 3px 3px 3px grey;
+    margin-left: 5px;
+    margin-top: 35px;
+  }
+
+  .box-twentytwo {
+    width: 260px;
+    height: 330px;
+    position: absolute;
+    top: 2200px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px 3px grey;
+    left: 370px;
+  }
+
+  .st-qirqbir {
+    position: absolute;
+    top: 225px;
+    color: rgb(7, 233, 7);
+    margin-left: 5px;
+  }
+
+  .st-qirqiki {
+    position: absolute;
+    display: none;
+    color: white;
+    text-align: center;
+  }
+  
+  .box-twentyone:hover .st-qirqiki {
+    cursor: pointer;
+    margin-left: 5px;
+    display: block;
+    color: antiquewhite;
+  } 
+
+  .box-twentyone {
+    width: 260px;
+    height: 330px;
+    position: absolute;
+    top: 2200px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px 3px grey;
+    left: 48px;
+  }
+
+  .input-twentyone {
+    width: 70px;
+    border-radius: 10px;
+    border: 1px solid black;
+    box-shadow: 3px 3px 3px grey;
+    margin-left: 5px;
+    margin-top: 35px;
+  }
+
+  .img-twentyone {
+    justify-content: center;
+    width: 260px;
+    height: 188px;
+    border-radius: 10px;
+  }
+
+  .st-ottiztoqiz {
+    position: absolute;
+    top: 225px;
+    color: rgb(7, 233, 7);
+    margin-left: 5px;
+  }
+
+  .st-qirq {
+    position: absolute;
+    display: none;
+    color: white;
+    text-align: center;
+  }
+  
+  .box-twenty:hover .st-qirq {
+    cursor: pointer;
+    margin-left: 5px;
+    display: block;
+    color: antiquewhite;
+  }  
+
+  .box-twenty {
+    width: 260px;
+    height: 330px;
+    position: absolute;
+    top: 1800px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px 3px grey;
+    left: 1040px;
+  }
+
+  .img-twenty {
+    justify-content: center;
+    width: 260px;
+    height: 188px;
+    border-radius: 10px;
+  }
+
+  .input-twenty {
+    width: 70px;
+    border-radius: 10px;
+    border: 1px solid black;
+    box-shadow: 3px 3px 3px grey;
+    margin-left: 5px;
+    margin-top: 35px;
+  }
+
+  .box-tennine {
+    width: 260px;
+    height: 330px;
+    position: absolute;
+    top: 1800px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px 3px grey;
+    left: 710px;
+  }
+
+  .st-ottizyeti {
+    position: absolute;
+    top: 225px;
+    color: rgb(7, 233, 7);
+    margin-left: 5px;
+  }
+
+  .st-ottizsakiz {
+    position: absolute;
+    display: none;
+    color: white;
+    text-align: center;
+  }
+  
+  .box-tennine:hover .st-ottizsakiz {
+    cursor: pointer;
+    margin-left: 5px;
+    display: block;
+    color: antiquewhite;
+  }  
+
+  .img-tennine {
+    justify-content: center;
+    width: 260px;
+    height: 188px;
+    border-radius: 10px;
+  }
+
+  .input-tennine {
+    width: 70px;
+    border-radius: 10px;
+    border: 1px solid black;
+    box-shadow: 3px 3px 3px grey;
+    margin-left: 5px;
+    margin-top: 35px;
+  }
+
+  .st-ottizbesh {
+    position: absolute;
+    top: 225px;
+    color: rgb(7, 233, 7);
+    margin-left: 5px;
+  }
+
+  .st-ottizolti {
+    position: absolute;
+    display: none;
+    color: white;
+    text-align: center;
+  }
+  
+  .box-teneight:hover .st-ottizolti {
+    cursor: pointer;
+    margin-left: 5px;
+    display: block;
+    color: antiquewhite;
+  }  
+
+  .box-teneight {
+    width: 260px;
+    height: 330px;
+    position: absolute;
+    top: 1800px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px 3px grey;
+    left: 370px;
+  }
+
+  .input-teneight {
+    width: 70px;
+    border-radius: 10px;
+    border: 1px solid black;
+    box-shadow: 3px 3px 3px grey;
+    margin-left: 5px;
+    margin-top: 35px;
+  }
+
+  .img-teneight {
+    justify-content: center;
+    width: 260px;
+    height: 188px;
+    border-radius: 10px;
+  }
+
+  .box-tenseven {
+    width: 260px;
+    height: 330px;
+    position: absolute;
+    top: 1800px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px 3px grey;
+    left: 48px;
+  }
+
+  .st-ottizuch {
+    position: absolute;
+    top: 225px;
+    color: rgb(7, 233, 7);
+    margin-left: 5px;
+  }
+
+  .st-ottiztor {
+    position: absolute;
+    display: none;
+    color: white;
+    text-align: center;
+  }
+  
+  .box-tenseven:hover .st-ottiztor {
+    cursor: pointer;
+    margin-left: 5px;
+    display: block;
+    color: antiquewhite;
+  }  
+
+
+  .img-tenseven {
+    justify-content: center;
+    width: 260px;
+    height: 188px;
+    border-radius: 10px;
+  }
+
+  .input-tenseven {
+    width: 70px;
+    border-radius: 10px;
+    border: 1px solid black;
+    box-shadow: 3px 3px 3px grey;
+    margin-left: 5px;
+    margin-top: 35px;
+  }
+
+  .st-ottizbir {
+    position: absolute;
+    top: 225px;
+    color: rgb(7, 233, 7);
+    margin-left: 5px;
+  }
+
+  .st-ottiziki {
+    position: absolute;
+    display: none;
+    color: white;
+    text-align: center;
+  }
+  
+  .box-tensix:hover .st-ottiziki {
+    cursor: pointer;
+    margin-left: 5px;
+    display: block;
+    color: antiquewhite;
+  }  
+
+  .img-tensix {
+    justify-content: center;
+    width: 260px;
+    height: 188px;
+    border-radius: 10px;
+  }
+
+  .input-tensix {
+    width: 70px;
+    border-radius: 10px;
+    border: 1px solid black;
+    box-shadow: 3px 3px 3px grey;
+    margin-left: 5px;
+    margin-top: 35px;
+  }
+
+  .box-tensix {
+    width: 260px;
+    height: 330px;
+    position: absolute;
+    top: 1400px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px 3px grey;
+    left: 1040px;
+  }
+
+  .st-yigirmatoqiz {
+    position: absolute;
+    top: 225px;
+    color: rgb(7, 233, 7);
+    margin-left: 5px;
+  }
+
+  .st-ottiz {
+    position: absolute;
+    display: none;
+    color: white;
+    text-align: center;
+  }
+  
+  .box-tenfive:hover .st-ottiz {
+    cursor: pointer;
+    margin-left: 5px;
+    display: block;
+    color: antiquewhite;
+  }  
+
+  .img-tenfive {
+    justify-content: center;
+    width: 260px;
+    height: 188px;
+    border-radius: 10px;
+  }
+
+  .input-tenfive {
+    width: 70px;
+    border-radius: 10px;
+    border: 1px solid black;
+    box-shadow: 3px 3px 3px grey;
+    margin-left: 5px;
+    margin-top: 35px;
+  }
+
+  .box-tenfive {
+    width: 260px;
+    height: 330px;
+    position: absolute;
+    top: 1400px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px 3px grey;
+    left: 710px;
+  }
+
+  .st-yigirmayeti {
+    position: absolute;
+    top: 225px;
+    color: rgb(7, 233, 7);
+    margin-left: 5px;
+  }
+
+  .st-yigirmasakiz {
+    position: absolute;
+    display: none;
+    color: white;
+    text-align: center;
+  }
+  
+  .box-tenfour:hover .st-yigirmasakiz {
+    cursor: pointer;
+    margin-left: 5px;
+    display: block;
+    color: antiquewhite;
+  }  
+
+  .img-tenfour {
+    justify-content: center;
+    width: 260px;
+    height: 188px;
+    border-radius: 10px;
+  }
+
+  .input-tenfour {
+    width: 70px;
+    border-radius: 10px;
+    border: 1px solid black;
+    box-shadow: 3px 3px 3px grey;
+    margin-left: 5px;
+    margin-top: 35px;
+  }
+
+  .box-tenfour {
+    width: 260px;
+    height: 330px;
+    position: absolute;
+    top: 1400px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px 3px grey;
+    margin-left: 250px;
   }
 
   .st-yigirmabesh {
@@ -23,7 +635,7 @@
     text-align: center;
   }
   
-  .box-tenthree:hover .st-yigirmatolti {
+  .box-tenthree:hover .st-yigirmaolti {
     cursor: pointer;
     margin-left: 5px;
     display: block;
@@ -51,10 +663,10 @@
     width: 260px;
     height: 330px;
     position: absolute;
-    top: 600px;
+    top: 1400px;
     border-radius: 10px;
     box-shadow: 3px 3px 3px 3px grey;
-    margin-left: 900px;
+    margin-left: -70px;
   }
 
   .st-yigirmauch {
