@@ -1,13 +1,248 @@
 
 
   .site-main {
-    height: 3000px;
+    height: 3500px;
   }
 
   .logo {
     width: 80px;
     border-radius: 10px;
   } 
+
+  .st-oltmishbir {
+    position: absolute;
+    top: 225px;
+    color: rgb(7, 233, 7);
+    margin-left: 5px;
+  }
+
+  .st-oltmishiki {
+    position: absolute;
+    display: none;
+    color: white;
+    text-align: center;
+  }
+  
+  .box-thirtyone:hover .st-oltmishiki {
+    cursor: pointer;
+    margin-left: 5px;
+    display: block;
+    color: antiquewhite;
+  } 
+
+  .box-thirtyone {
+    width: 260px;
+    height: 330px;
+    position: absolute;
+    top: 3000px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px 3px grey;
+    left: 710px;
+  }
+
+  .input-thirtyone {
+    width: 70px;
+    border-radius: 10px;
+    border: 1px solid black;
+    box-shadow: 3px 3px 3px grey;
+    margin-left: 5px;
+    margin-top: 35px;
+  }
+
+  .img-thirtyone {
+    justify-content: center;
+    width: 260px;
+    height: 188px;
+    border-radius: 10px;
+  }
+
+  .st-ellitoqiz {
+    position: absolute;
+    top: 225px;
+    color: rgb(7, 233, 7);
+    margin-left: 5px;
+  }
+
+  .st-oltmish {
+    position: absolute;
+    display: none;
+    color: white;
+    text-align: center;
+  }
+  
+  .box-thirty:hover .st-oltmish {
+    cursor: pointer;
+    margin-left: 5px;
+    display: block;
+    color: antiquewhite;
+  } 
+
+  .box-thirty {
+    width: 260px;
+    height: 330px;
+    position: absolute;
+    top: 3000px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px 3px grey;
+    left: 370px;
+  }
+
+  .input-thirty {
+    width: 70px;
+    border-radius: 10px;
+    border: 1px solid black;
+    box-shadow: 3px 3px 3px grey;
+    margin-left: 5px;
+    margin-top: 35px;
+  }
+
+  .img-thirty {
+    justify-content: center;
+    width: 260px;
+    height: 188px;
+    border-radius: 10px;
+  }
+
+  .st-ellieti {
+    position: absolute;
+    top: 225px;
+    color: rgb(7, 233, 7);
+    margin-left: 5px;
+  }
+
+  .st-ellisakiz {
+    position: absolute;
+    display: none;
+    color: white;
+    text-align: center;
+  }
+  
+  .box-twentynine:hover .st-ellisakiz {
+    cursor: pointer;
+    margin-left: 5px;
+    display: block;
+    color: antiquewhite;
+  } 
+
+  .box-twentynine {
+    width: 260px;
+    height: 330px;
+    position: absolute;
+    top: 3000px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px 3px grey;
+    left: 48px;
+  }
+
+  .input-twentynine {
+    width: 70px;
+    border-radius: 10px;
+    border: 1px solid black;
+    box-shadow: 3px 3px 3px grey;
+    margin-left: 5px;
+    margin-top: 35px;
+  }
+
+  .img-twentynine {
+    justify-content: center;
+    width: 260px;
+    height: 188px;
+    border-radius: 10px;
+  }
+
+  .st-ellibesh {
+    position: absolute;
+    top: 225px;
+    color: rgb(7, 233, 7);
+    margin-left: 5px;
+  }
+
+  .st-elliolti {
+    position: absolute;
+    display: none;
+    color: white;
+    text-align: center;
+  }
+  
+  .box-twentyeight:hover .st-elliolti {
+    cursor: pointer;
+    margin-left: 5px;
+    display: block;
+    color: antiquewhite;
+  } 
+
+  .box-twentyeight {
+    width: 260px;
+    height: 330px;
+    position: absolute;
+    top: 2600px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px 3px grey;
+    left: 1040px;
+  }
+
+  .img-twentyeight {
+    justify-content: center;
+    width: 260px;
+    height: 188px;
+    border-radius: 10px;
+  }
+
+  .input-twentyeight {
+    width: 70px;
+    border-radius: 10px;
+    border: 1px solid black;
+    box-shadow: 3px 3px 3px grey;
+    margin-left: 5px;
+    margin-top: 35px;
+  }
+
+  .st-elliuch {
+    position: absolute;
+    top: 225px;
+    color: rgb(7, 233, 7);
+    margin-left: 5px;
+  }
+
+  .st-ellitor {
+    position: absolute;
+    display: none;
+    color: white;
+    text-align: center;
+  }
+  
+  .box-twentyseven:hover .st-ellitor {
+    cursor: pointer;
+    margin-left: 5px;
+    display: block;
+    color: antiquewhite;
+  } 
+
+  .box-twentyseven {
+    width: 260px;
+    height: 330px;
+    position: absolute;
+    top: 2600px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px 3px grey;
+    left: 710px;
+  }
+
+  .input-twentyseven {
+    width: 70px;
+    border-radius: 10px;
+    border: 1px solid black;
+    box-shadow: 3px 3px 3px grey;
+    margin-left: 5px;
+    margin-top: 35px;
+  }
+
+  .img-twentyseven {
+    justify-content: center;
+    width: 260px;
+    height: 188px;
+    border-radius: 10px;
+  }
 
   .st-ellibir {
     position: absolute;
